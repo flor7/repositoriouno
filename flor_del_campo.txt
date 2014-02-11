@@ -1,0 +1,9 @@
+#Se creará un archivo tipo .gitignore
+#Este archivo ignorará los patrones que deseamos
+#Después iremos a shell y trataremos de agregar un archivo (previamente debimos haber agregado la linea : *.txt para que ignore archivos txt)
+##$git add explicacion.txt
+#The following paths are ignored by one of your .gitignore
+#files:
+#explicacion.txt
+#Use -f if you really want to add them.
+#fatal: no files added

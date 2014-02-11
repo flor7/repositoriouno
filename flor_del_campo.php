@@ -1,3 +1,3 @@
 <?php
-echo "Flor de campo romero jacobo";
+echo "Hola mundo";
 ?>
